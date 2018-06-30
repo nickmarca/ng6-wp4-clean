@@ -9,7 +9,7 @@ This a Angular 6 and Webpack 4 clean starter template
 
 ### Why ###
 
-This project is a clean Angular starter template who I plan to maintain as far as I use Angular at my Job.
+This project is a clean Angular starter template who I plan to maintain as long as I use Angular at my Job.
 
 The reason why I decided to create this is because I want to have a clean, not opinated and light alternative to Angular Cli.
 
